@@ -1,8 +1,11 @@
-DDANS | Disaster Duty Assignment and Notification System
+ ** DDANS | Disaster Duty Assignment and Notification System
+
 DDANS is a specialized platform designed to streamline the coordination of personnel during emergency situations and natural disasters. Developed as part of the Smart Gujarat Hackathon, this system automates the assignment of duties and ensures real-time communication between administrative authorities and field staff.
+
 🚀 Overview
 
 During disasters, manual coordination is slow and prone to errors. DDANS solves this by providing a centralized dashboard for administrators to assign duties based on location and necessity, with an instant notification system to alert designated responders.
+
 ✨ Key Features
 
 Automated Duty Assignment: Efficiently assign personnel to specific disaster zones based on real-time requirements.
@@ -10,6 +13,7 @@ Real-time Notifications: Instant alerts via SMS/Email/Push notifications to ensu
 Admin Dashboard: A powerful interface for authorities to monitor the distribution of manpower across different regions.
 Reporting & Analytics: Generate detailed reports on duty status and personnel availability.
 User Management: Secure login and profile management for different government departments.
+
 🛠️ Tech Stack
 
 Frontend: React.js / Flutter (choose the one you used)
@@ -27,6 +31,7 @@ Authentication: JWT (JSON Web Tokens) or Firebase Auth
 └── README.md        # Documentation
 
 🏆 Hackathon Recognition
+
 This project was conceptualized and developed for the Smart Gujarat Hackathon to provide a tech-driven solution for state-level disaster management.
 Quick Tip for GitHub:
 Since you had issues earlier with files not appearing, make sure you run:
@@ -34,7 +39,7 @@ git add .
 git commit -m "Initial commit for DDANS project"
 git push origin main
 
-Author
+ -> Author
 
 Name : Patel Umangi
 Branch: Computer Engineering (9.34 SPI)
