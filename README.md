@@ -137,9 +137,11 @@ DDANS/
 ├── controllers/         # Business Logic
 ├── config/              # Configuration Files
 └── README.md
-```
 
----
+## Systen Design Design
+
+link: https://github.com/Umangi-webdev/Disaster-Duty-Assignment-And-Notification-System/blob/main/ddans/assets/ddans_system_design.png
+
 
 ## ⚙️ Installation
 
@@ -148,8 +150,6 @@ DDANS/
 * Node.js
 * npm / yarn
 * MongoDB Atlas account
-
----
 
 ### 📥 Steps
 
