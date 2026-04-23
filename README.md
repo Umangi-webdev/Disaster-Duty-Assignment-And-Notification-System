@@ -227,7 +227,7 @@ git push origin feature-name
 **Patel Umangi**
 🎓 Computer Engineering (SPI: 9.34)
 
-🔗 GitHub: [https://github.com/your-username](https://github.com/your-username)
+🔗 GitHub: https://github.com/Umangi-webdev
 
 ## ⭐ Support
 
