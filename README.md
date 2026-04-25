@@ -123,7 +123,6 @@ User/Admin → Frontend → Backend API → Database
 * JWT (JSON Web Tokens)
 * Firebase Authentication
 
----
 
 ## 📂 Project Structure
 
